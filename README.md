@@ -57,12 +57,15 @@ Rooch 开发者训练营正式开启报名，具体课程为期 6 周，第一�
 
 - 讲师：Bai Chuan
 - 时间：2024年7月17日
+- 视频：[腾讯会议录制](https://meeting.tencent.com/v2/cloud-record/share?id=d17e2e11-a36c-481e-98bf-a5f6b73c8ddd&from=3&is-single=false&record_type=2) 提取密码：2S1O
+- 资料：[PPT](https://docs.google.com/presentation/d/1LQCSmpEArqkcYcXU3C4P-n-6DK-LLsHBaWMluMksCGg)
 
 **三、Rooch 介绍以及开发入门**
 
 - 讲师：Jolestar
-
 - 时间：2024年7月24日
+- 视频：[录制回放](https://pan.baidu.com/s/1AHkNWAcwOYQlGxwrNIW8jg?pwd=3xrj) 提取密码：3xrj
+- 资料：[PPT](https://docs.google.com/presentation/d/1aGiUgWjro61lZtHycXPUNgmBckQ9PAtv3_ApE96CLXc/edit?usp=sharing)
 
 **四、Rooch Move 框架和功能介绍**
 
@@ -76,7 +79,9 @@ Rooch 开发者训练营正式开启报名，具体课程为期 6 周，第一�
 
 **六、黑客松**
 
-- 为期十天
+- 产出：demo + ppt 介绍
+- 时间：10 天左右
+- 挑选 5 个项目进入加速器，有奖
 
 期待你在 Rooch Network 生根发芽！
 
